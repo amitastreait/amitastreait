@@ -29,19 +29,36 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitastreait&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+ <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitastreait&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amitastreait&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
-</br>
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitastreait&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=amitastreait&theme=juicyfresh&no-bg=true" />
+
+<!-- <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/cloudyamit" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/amitsingh__mdt/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/simplyamit/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:sfdcpanther@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p> -->
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.sfdcpanther.com"><img src="https://img.shields.io/badge/-sfdcpanther.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/simplyamit"><img src="https://img.shields.io/badge/-Amit%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sfdcpanther@gmail.com"><img src="https://img.shields.io/badge/-sfdcpanther@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/amitsingh__mdt"><img src="https://img.shields.io/badge/-@amitsingh__mdt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/sfdcpanther"><img src="https://img.shields.io/badge/-@sfdcpanther-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <p align="center">
