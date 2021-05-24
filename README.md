@@ -15,8 +15,6 @@
 - 🌱 I’m currently learning AWS, Heroku, Mulesooft & Google Cloud & DSA
 - 👯 I’m looking to collaborate on GitHub and my blog [SFDCPanther.com](https://www.sfdcpanther.com/) & My YouTube Channel [SFDCPanther](http://youtube.com/c/SFDCPanther)
 - 💬 Ask me about Salesforce, Integration, Lightning Development
-- 😄 Pronouns: ... Amith
-- ⚡ Fun fact: ... Always looks very serious 
 
 <h3>🛠 Tech Stack</h3>
 
