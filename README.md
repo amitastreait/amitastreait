@@ -1,5 +1,4 @@
 <h2> Hey there! I'm Amit. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -7,13 +6,13 @@
 **amitastreait/amitastreait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [<img src="https://github.com/amitastreait/amitastreait/blob/master/LinkedIn.png" width="30%" height="30%">](https://www.linkedin.com/in/simplyamit/)
 [<img src="https://github.com/amitastreait/amitastreait/blob/master/YouTube.png" width="30%" height="30%">](http://youtube.com/c/SFDCPanther)
-[<img src="https://github.com/amitastreait/amitastreait/blob/master/Visit%20Us.png" width="30%" height="30%">](https://sfdcpanther.com)
+[<img src="https://github.com/amitastreait/amitastreait/blob/master/Visit%20Us.png" width="30%" height="30%">](https://pantherschools.com/)
 
 <h3> 👨🏻‍💻 About Me </h3> -->
 
 - 🔭 I’m currently working on Salesforce Technology and I am 2X Salesforce MVP, Integration Architect
 - 🌱 I’m currently learning AWS, Heroku, Mulesooft & Google Cloud & DSA
-- 👯 I’m looking to collaborate on GitHub and my blog [SFDCPanther.com](https://www.sfdcpanther.com/) & My YouTube Channel [SFDCPanther](http://youtube.com/c/SFDCPanther)
+- 👯 I’m looking to collaborate on GitHub and my blog [pantherschools.com](https://pantherschools.com/) & My YouTube Channel [SFDCPanther](http://youtube.com/c/SFDCPanther)
 - 💬 Ask me about Salesforce, Integration, Lightning Development
 
 <h3>🛠 Tech Stack</h3>
@@ -50,7 +49,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.sfdcpanther.com"><img src="https://img.shields.io/badge/-sfdcpanther.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://pantherschools.com"><img src="https://img.shields.io/badge/-pantherschools.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/simplyamit"><img src="https://img.shields.io/badge/-Amit%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sfdcpanther@gmail.com"><img src="https://img.shields.io/badge/-sfdcpanther@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/amitsingh__mdt"><img src="https://img.shields.io/badge/-@amitsingh__mdt-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
