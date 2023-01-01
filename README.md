@@ -10,15 +10,15 @@
 
 <h3> 👨🏻‍💻 About Me </h3> -->
 
-- 🔭 I’m currently working on Salesforce Technology and I am 2X Salesforce MVP, Integration Architect
+- 🔭 I’m currently working on Salesforce Technology and I am 3X Salesforce MVP, System/Application Architect
 - 🌱 I’m currently learning AWS, Heroku, Mulesooft & Google Cloud & DSA
-- 👯 I’m looking to collaborate on GitHub and my blog [pantherschools.com](https://pantherschools.com/) & My YouTube Channel [SFDCPanther](http://youtube.com/c/SFDCPanther)
-- 💬 Ask me about Salesforce, Integration, Lightning Development
+- 👯 I’m looking to collaborate on GitHub and my blog [pantherschools.com](https://www.pantherschools.com/) & My YouTube Channel [SFDCPanther](http://youtube.com/c/SFDCPanther)
+- 💬 Ask me about Salesforce, DevSecOps, Integration, Lightning Development, Career Development
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Salesforce | Java 
-- 🌐 &nbsp; MuleSoft | Jitterbit | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Salesforce | Java | Python
+- 🌐 &nbsp; MuleSoft | Jitterbit | HTML | CSS | JavaScript | Bootstrap | Node.js 
 - 🛢 &nbsp; MySQL | Salesforce |
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
