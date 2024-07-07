@@ -1,61 +1,36 @@
-<h2> Hey there! I'm Amit. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-<h3> 👨🏻‍💻 About Me </h3>
-
-<!--
-**amitastreait/amitastreait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[<img src="https://github.com/amitastreait/amitastreait/blob/master/LinkedIn.png" width="30%" height="30%">](https://www.linkedin.com/in/simplyamit/)
-[<img src="https://github.com/amitastreait/amitastreait/blob/master/YouTube.png" width="30%" height="30%">](http://youtube.com/c/SFDCPanther)
-[<img src="https://github.com/amitastreait/amitastreait/blob/master/Visit%20Us.png" width="30%" height="30%">](https://pantherschools.com/)
-
-<h3> 👨🏻‍💻 About Me </h3> -->
-
-- 🔭 I’m currently working on Salesforce Technology and I am 3X Salesforce MVP, System/Application Architect
-- 🌱 I’m currently learning AWS, Heroku, Mulesooft & Google Cloud & DSA
-- 👯 I’m looking to collaborate on GitHub and my blog [pantherschools.com](https://www.pantherschools.com/) & My YouTube Channel [SFDCPanther](http://youtube.com/c/SFDCPanther)
-- 💬 Ask me about Salesforce, DevSecOps, Integration, Lightning Development, Career Development
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Salesforce | Java | Python
-- 🌐 &nbsp; MuleSoft | Jitterbit | HTML | CSS | JavaScript | Bootstrap | Node.js 
-- 🛢 &nbsp; MySQL | Salesforce |
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
-
-<br>
-
- <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitastreait&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=amitastreait&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
+# 💫 About Me:
+🔭 I’m currently working on Salesforce Technology and I am a 3X Salesforce MVP, System/Application Architect<br>🌱 I’m currently learning & Developing using Gen AI<br>👯 I’m looking to collaborate on GitHub my blog pantherschools.com & My YouTube Channel SFDCPanther<br>💬 Ask me about Salesforce, DevSecOps, Integration, Lightning Development, Career Development
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=amitastreait&theme=juicyfresh&no-bg=true" />
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/pantherschools) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amitsingh.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cloudyamit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cloudyamit) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/panthersschools) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/cloudyamit) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cloudyamit) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@pantherschools) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/pantherschools) 
 
-<!-- <h3> 🤝🏻 Connect with Me </h3>
+# 💻 Tech Stack:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=amitastreait&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=amitastreait&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amitastreait&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/cloudyamit" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/amitsingh__mdt/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/simplyamit/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:sfdcpanther@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p> -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=amitastreait&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🤝🏻 &nbsp;Connect with Me
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center">
-<a href="https://www.pantherschools.com"><img src="https://img.shields.io/badge/-pantherschools.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/cloudyamit"><img src="https://img.shields.io/badge/-Amit%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:sfdcpanther@gmail.com"><img src="https://img.shields.io/badge/-sfdcpanther@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/cloudyamit"><img src="https://img.shields.io/badge/-@cloudyamit-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/sfdcpanther"><img src="https://img.shields.io/badge/-@sfdcpanther-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=amitastreait&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src='[https://codermemes.vercel.app/#1](https://codermemes.vercel.app/#2)' style="height: 400px;"/>
+
+---
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=amitastreait" id="counter">
 </p>
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/sfdcpanther) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/amitasingh94) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/pantherschools) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
