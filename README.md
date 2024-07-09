@@ -22,7 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=amitastreait&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='[https://codermemes.vercel.app/#1](https://codermemes.vercel.app/#2)' style="height: 400px;"/>
 
 ---
 <p align="center">
