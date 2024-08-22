@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Salesforce Technology and I am a 3X Salesforce MVP, System/Application Architect<br>🌱 I’m currently learning & Developing using Gen AI<br>👯 I’m looking to collaborate on GitHub my blog pantherschools.com & My YouTube Channel SFDCPanther<br>💬 Ask me about Salesforce, DevSecOps, Integration, Lightning Development, Career Development
+🔭 I am Amit Singh (AI Advocate), 22X Salesforce Certified. Salesforce  Architect, Udemy Author, DevSecOps Architect.<br>🌱 I’m currently learning & Developing using Gen AI<br>👯 I’m looking to collaborate on GitHub my blog pantherschools.com & My YouTube Channel SFDCPanther<br>💬 Ask me about Salesforce, DevSecOps, Integration, Lightning Development, Career Development
 
 
 ## 🌐 Socials:
